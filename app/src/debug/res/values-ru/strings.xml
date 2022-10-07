@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Мои Рецепты</string>
+    <string name="app_name">Мой рецепты</string>
     <string name="recipe_card_image_text_description">Картинка рецепта</string>
     <string name="options_text_description">Опции карточки рецепта</string>
     <string name="fave_button_recipe_card_description">Избранный рецепт</string>
