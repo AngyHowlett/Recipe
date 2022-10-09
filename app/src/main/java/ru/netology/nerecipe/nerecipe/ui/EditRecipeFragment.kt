@@ -21,8 +21,8 @@ import ru.netology.nerecipe.adapters.steps.StepsAdapter
 import ru.netology.nerecipe.databinding.FragmentRecipeEditBinding
 import ru.netology.nerecipe.dto.Categories
 import ru.netology.nerecipe.dto.Recipe
-import ru.netology.nerecipe.viewModel.RecipeViewModel
 import ru.netology.nerecipe.utils.hideKeyboard
+import ru.netology.nerecipe.viewModel.RecipeViewModel
 
 
 class EditRecipeFragment : Fragment() {

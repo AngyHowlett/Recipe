@@ -5,8 +5,8 @@ import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.MutableLiveData
 import ru.netology.nerecipe.adapters.filters.FilterInteractionListener
 import ru.netology.nerecipe.adapters.ingredients.IngredientInteractionListener
-import ru.netology.nerecipe.adapters.steps.StepInteractionListener
 import ru.netology.nerecipe.adapters.recipe.RecipeInteractionListener
+import ru.netology.nerecipe.adapters.steps.StepInteractionListener
 import ru.netology.nerecipe.data.impl.RecipeRepositoryImpl
 import ru.netology.nerecipe.db.AppDb
 import ru.netology.nerecipe.dto.Categories

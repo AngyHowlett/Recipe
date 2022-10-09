@@ -7,7 +7,6 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.activityViewModels
 import androidx.navigation.fragment.findNavController
-import ru.netology.nerecipe.R
 import ru.netology.nerecipe.adapters.recipe.RecipesAdapter
 import ru.netology.nerecipe.databinding.FragmentRecipesFeedFavoritesBinding
 import ru.netology.nerecipe.viewModel.RecipeViewModel

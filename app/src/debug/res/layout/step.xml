@@ -68,6 +68,6 @@
         android:visibility="visible"
         app:layout_constraintTop_toBottomOf="@id/stepTextView"
         app:layout_constraintStart_toStartOf="@id/stepWordTextView"
-        app:layout_constraintEnd_toEndOf="@id/deleteStepMaterialButton"/>
+        app:layout_constraintEnd_toEndOf="@id/deleteStepMaterialButton" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -32,9 +32,9 @@ class RecipeRepositoryImpl(
     override fun update(recipe: Recipe) {
         dao.update(
             id = recipe.id,
-            title=recipe.title,
+            title = recipe.title,
             recipeImgPath = recipe.recipeImgPath,
-            time= recipe.time,
+            time = recipe.time,
             ingredients = recipe.ingredients,
             steps = recipe.steps,
             tags = recipe.tags

@@ -5,7 +5,9 @@ import android.content.Context
 import android.content.Intent
 import android.net.Uri
 import android.os.Bundle
-import android.view.*
+import android.view.LayoutInflater
+import android.view.View
+import android.view.ViewGroup
 import android.widget.PopupMenu
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.fragment.app.Fragment
@@ -19,8 +21,8 @@ import ru.netology.nerecipe.adapters.steps.StepsAdapter
 import ru.netology.nerecipe.databinding.FragmentRecipeNewBinding
 import ru.netology.nerecipe.dto.Categories
 import ru.netology.nerecipe.dto.Recipe
-import ru.netology.nerecipe.viewModel.RecipeViewModel
 import ru.netology.nerecipe.utils.hideKeyboard
+import ru.netology.nerecipe.viewModel.RecipeViewModel
 
 
 class NewRecipeFragment : Fragment() {

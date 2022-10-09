@@ -2,10 +2,8 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/editRecipeOption"
-        android:title="@string/edit_recipe_options_menu"
-        />
+        android:title="@string/edit_recipe_options_menu" />
     <item
         android:id="@+id/deleteRecipeOption"
-        android:title="@string/delete_recipe_options_menu"
-        />
+        android:title="@string/delete_recipe_options_menu" />
 </menu>
